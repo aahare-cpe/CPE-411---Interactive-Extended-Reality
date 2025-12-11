@@ -1,7 +1,8 @@
 # CPE-411---Interactive-Extended-Reality
 Creating and Customizing my Github Profile
 
-![150883-799711528_large](https://github.com/user-attachments/assets/1cff5af5-7ce5-4973-919d-cab40b96e924)
+
+![vaporwave-sunset](https://github.com/user-attachments/assets/975ddaa2-a111-4b06-afa5-72fcc6695c3d)
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Andrei Angelo
@@ -12,7 +13,7 @@ BS Computer Engineering Student
 
 **Welcome to my profile!**
 
-I’m a working student who's passionate about **technology, data, and continuous improvement**. I love solving problems and turning ideas into something useful.
+I’m a working student who's passionate about **technology, data, and continuous improvement**. I love solving problems and turning ideas into something useful💡
 
 🎯 What I’m aiming for is to build a stronger foundation in tech, analytics, and software, while balancing school, work, and personal growth.
 
