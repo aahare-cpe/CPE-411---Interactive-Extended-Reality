@@ -1,9 +1,8 @@
 # CPE-411---Interactive-Extended-Reality
 Creating and Customizing my Github Profile
 
+![150883-799711528_large](https://github.com/user-attachments/assets/1cff5af5-7ce5-4973-919d-cab40b96e924)
 
-
-https://github.com/user-attachments/assets/df719993-bf96-43aa-aa55-4002141bc098
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Andrei Angelo
 ======================================================================================================================================
@@ -11,7 +10,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 BS Computer Engineering Student
 -------------------------------
 
-Welcome to my profile!
+**Welcome to my profile!**
+
+I’m a working student who's passionate about **technology, data, and continuous improvement**. I love solving problems and turning ideas into something useful.
+
+🎯 What I’m aiming for is to build a stronger foundation in tech, analytics, and software, while balancing school, work, and personal growth.
 
 * 🌍  I'm based in Makati, Philippines
 * ✉️  You can contact me at [qaadhare@tip.edu.ph](mailto:qaadhare@tip.edu.ph)
